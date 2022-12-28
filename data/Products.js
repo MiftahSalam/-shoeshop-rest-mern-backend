@@ -1,0 +1,58 @@
+const products = [
+  {
+    name: 'Velco Ballerinas For Girls (Pink)',
+    image: '/images/6.png',
+    description: 'Velco Ballerinas For Girls (Pink)',
+    price: 89,
+    countInStock: 3,
+    rating: 4,
+    numReview: 4,
+  },
+  {
+    name: 'Velco Sneakers For Boys (Blue)',
+    image: '/images/5.png',
+    description: 'Velco Sneakers For Boys (Blue)',
+    price: 589,
+    countInStock: 13,
+    rating: 4,
+    numReview: 4,
+  },
+  {
+    name: 'Sesame Street Unisex-Child ELMO pupper sliper',
+    image: '/images/4.png',
+    description: 'Sesame Street Unisex-Child ELMO pupper sliper',
+    price: 389,
+    countInStock: 10,
+    rating: 5,
+    numReview: 9,
+  },
+  {
+    name: 'Lace Casual Boots For Boys and Girls (Tan)',
+    image: '/images/3.png',
+    description: 'Lace Casual Boots For Boys and Girls (Tan)',
+    price: 389,
+    countInStock: 10,
+    rating: 5,
+    numReview: 9,
+  },
+  {
+    name: 'Lace Walking Shoes For Boys and Girls (Pink)',
+    image: '/images/2.png',
+    description: 'Lace Walking Shoes For Boys and Girls (Pink)',
+    price: 49,
+    countInStock: 7,
+    rating: 2,
+    numReview: 2,
+  },
+  {
+    name: 'Woman Red Heels Sandal',
+    image: '/images/1.png',
+    description: 'Woman Red Heels Sandal',
+    price: 20,
+    countInStock: 0,
+    rating: 0,
+    numReview: 0,
+  },
+];
+
+export default products;
