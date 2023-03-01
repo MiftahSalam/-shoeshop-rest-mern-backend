@@ -31,9 +31,7 @@ Not available yet
 
 # Getting started
 
-## Install Nodejs <br /><br />
-
-Make sure you have Go 1.13 or higher installed.
+## Install Nodejs
 
 https://nodejs.org/en/download/
 <br /><br />
@@ -46,6 +44,14 @@ From the project root, run (using npm):
 
 ```
 npm install --save
+```
+
+## Run Project
+
+From the project root, run (using npm):
+
+```
+npm start
 ```
 
 ## Application Environment Config
@@ -72,3 +78,4 @@ Not available yet
 ## Todo
 
 - Create testing
+- Admin API
